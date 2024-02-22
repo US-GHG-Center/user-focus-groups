@@ -1,0 +1,57 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color:rgba(241, 242, 246,1.0);
+}
+
+h1, h2 {
+    color: rgb(9,43,100);
+}
+
+.wrapper {
+    display: flex;
+    width: 70%;
+
+    header {
+        position: relative;
+        float: none;
+        margin-right: 20px;
+    }
+
+    section {
+        width: 90%;
+    }
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.event {
+    a {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+
+    .date {
+        &::before {
+            content: '📅';
+        }
+    }
+    
+    .title {
+    }
+    width: 60%;
+    padding: 4px 8px;
+    margin: 2px 0 0 0;
+    border-left: 4px solid rgba(230, 103, 103,1.0);
+    border-radius: 5px;
+    background-color: rgba(234, 134, 133, 0.4);
+    color: black;
+}

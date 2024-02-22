@@ -1,0 +1,13 @@
+theme: jekyll-theme-minimal
+title: User Focus Group Meetings
+description: Space for user focus group meetings
+company: US GHG Center x
+logo: ./ghgc-logo-light.png
+sass:
+  sass_dir: _sass
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

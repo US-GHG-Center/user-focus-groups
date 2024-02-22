@@ -37,7 +37,7 @@ Click to register.
 
 # Agenda
 
-| Time (PM) | What | Who |
+| When (PM) | What | Who |
 | ---- | ---- |---- |
 | 3:00 - 3:30 &nbsp; &nbsp; | * Present US GHG Center / Focus Group Expectations (10 min) <br> * Provide specific Focus Area information and share current and upcoming plans for upcoming releases (10 min) <br> * Focus Area 2 demonstration (5 min) <br> * Collect feedback on current portal and other stakeholder engagement results to date (5 min) | - Shanna Combley <br> - Lesley Ott / Arlyn Andrews <br> - Deborah Smith <br> - Shanna Combley |
 | 3:30 - 4:00 &nbsp; &nbsp; | Full room discussion on pre-meeting and other stakeholder survey results | All|
